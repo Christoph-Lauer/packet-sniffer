@@ -12,6 +12,9 @@ make
 ```
 
 ## Run:
+
+![alt text](ani.gif)
+
 ```
 sudo ./packet-analyzer
 ```
