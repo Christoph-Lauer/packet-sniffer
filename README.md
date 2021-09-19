@@ -1,5 +1,5 @@
 # Packet-Sniffer
-A simple network packet sniffer for Linux
+A simple network packet sniffer for Linux in 350 lines of code.
 ## Build Instructions:
 ```
 git clone https://github.com/Christoph-Lauer/packet-sniffer.git
