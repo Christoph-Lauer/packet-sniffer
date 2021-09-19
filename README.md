@@ -16,7 +16,7 @@ make
 ![alt text](ani.gif)
 
 ```
-sudo ./packet-analyzer
+sudo ./packet-sniffer
 ```
 
 the program outputs:
