@@ -7,7 +7,7 @@ A simple network packet sniffer for Linux in 350 lines of code.
 ## Build Instructions:
 ```
 git clone https://github.com/Christoph-Lauer/packet-sniffer.git
-cd packet-analyzer
+cd packet-sniffer
 make
 ```
 
