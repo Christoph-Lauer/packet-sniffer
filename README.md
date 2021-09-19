@@ -1,5 +1,8 @@
 # Packet-Sniffer
 A simple network packet sniffer for Linux in 350 lines of code.
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 ## Build Instructions:
 ```
 git clone https://github.com/Christoph-Lauer/packet-sniffer.git
