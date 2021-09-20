@@ -10,6 +10,7 @@ git clone https://github.com/Christoph-Lauer/packet-sniffer.git
 cd packet-sniffer
 make
 ```
+Note: You can change the default device in line 66.
 
 ## Run:
 
